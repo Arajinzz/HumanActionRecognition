@@ -1,3 +1,3 @@
 # HumanActionRecognition
 
-My bachelor graduation project
+My bachelor graduation project in 2018
